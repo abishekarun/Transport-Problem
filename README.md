@@ -1,6 +1,6 @@
 ## Transport Problem
 
-In this project, we try to work on [Time series](https://datahack.analyticsvidhya.com/contest/practice-problem-time-series-2/) practice problem hosted by analytics vidhaya. This project was also used to explore different time series techniques and their application in matlab.
+In this project, we try to work on [Time series](https://datahack.analyticsvidhya.com/contest/practice-problem-time-series-2/) practice problem hosted by analytics vidhaya. This project was also used to explore different time series techniques and their application in matlab. This project was done as part of EOSC 510 course at UBC.
 
 The final matlab file is [here](https://github.com/abishekarun/Transport-Problem/blob/master/transport_problem.m) for this project. This project got the score of 259.7795 and obtained 195th position out of 6519 participants.
 
